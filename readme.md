@@ -8,3 +8,11 @@ This repository is intended to provide a historical archive of public records, r
 These files have been provided as part of the EyesOff effort to archive and make available public record documents detailing mass surveillance.
 
 For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
+
+## Public Records Requests
+# Active Requests
+| Label                          | Submitted | Status                                     | Fee              | Link   |
+|--------------------------------|-----------|--------------------------------------------|------------------|--------|
+| Inventory of Surveillance Tech | 8/17/2025 | Open - Fee Issued                          | $727.45 <br>Unpaid | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-25-585_InventoryOfSurveillanceTech) |
+| Flock Contract                 | 9/30/2025 | Submitted                                  |                  | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-25-xxx_FlockContract%5B202509-02%5D) |
+| Flock Camera Locations         | 9/30/2025 | Submitted                                  |                  | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-25-xxx_FlockCameraLocations%5B202509-03%5D) |
