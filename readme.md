@@ -14,5 +14,5 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 | Label                          | Submitted | Status                                     | Fee              | Link   |
 |--------------------------------|-----------|--------------------------------------------|------------------|--------|
 | Inventory of Surveillance Tech | 8/17/2025 | Open - Fee Issued                          | $727.45 <br>Unpaid | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-25-585_InventoryOfSurveillanceTech) |
-| Flock Contract                 | 9/30/2025 | Submitted                                  |                  | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-25-xxx_FlockContract%5B202509-02%5D) |
-| Flock Camera Locations         | 9/30/2025 | Submitted                                  |                  | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-25-xxx_FlockCameraLocations%5B202509-03%5D) |
+| Flock Contract                 | 9/30/2025 | Acknowledged                               |                  | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-P013215-093025_FlockContract%5B202509-02%5D) |
+| Flock Camera Locations         | 9/30/2025 | Acknowledged                               |                  | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-P013216-093025_FlockCameraLocations%5B202509-03%5D) |
