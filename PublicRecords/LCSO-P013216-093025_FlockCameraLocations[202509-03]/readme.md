@@ -5,7 +5,8 @@
 https://www.muckrock.com/foi/lane-county-205/flock-safety-camera-locations-2509-03-193915/
 
 ## Status
-* Open
+* Closed - No Records 
+"Lane County does not possess ... the records you have requested as the locations [of the cameras] have not yet been determined."
 
 ## Request 
 To the Public Records Manager,
