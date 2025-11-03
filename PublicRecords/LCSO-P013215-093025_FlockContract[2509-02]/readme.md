@@ -5,7 +5,8 @@
 https://www.muckrock.com/foi/lane-county-205/flock-safety-contract-2509-02-193914/
 
 ## Status
-* Open
+* Closed - No Records
+"Try LCPR"
 
 ## Request 
 To the Public Records Manager,
