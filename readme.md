@@ -13,12 +13,12 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 # Active Requests
 | Label                                      | Submitted  | Status                                           | Fee                 | Link   |
 |--------------------------------------------|------------|--------------------------------------------------|---------------------|--------|
-| Flock Contract - Public Records            | 10/29/2025 | Open                                             |                     | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCRO-25-789_FlockContract%5B2510-09%5D) |
-| Flock Camera Locations - Public Records    | 10/29/2025 | Open                                             |                     | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-25-790_FlockCameraLocations%5B2510-10%5D) |
 
 # Inactive Requests
 | Label                                      | Submitted | Status                                           | Fee                 | Link   |
 |--------------------------------------------|-----------|--------------------------------------------------|---------------------|--------|
+| Flock Contract - Public Records            | 10/29/2025 | Closed - Fulfilled                              |                     | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCRO-25-789_FlockContract%5B2510-09%5D) |
+| Flock Camera Locations - Public Records    | 10/29/2025 | Closed - No Records                             |                     | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-25-790_FlockCameraLocations%5B2510-10%5D) |
 | Flock Contract - Sheriff's Office          | 9/30/2025 | Closed - No Records                              |                     | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-P013215-093025_FlockContract%5B2509-02%5D) |
 | Flock Camera Locations - Sheriff's Office  | 9/30/2025 | Closed - No Records                              |                     | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCSO-P013216-093025_FlockCameraLocations%5B2509-03%5D) |
 | Inventory of Surveillance Tech             | 8/17/2025 | Closed - Fee Issued                              | $727.45 <br>Unpaid  | [Link](https://github.com/eyes-off/lane-county-oregon/tree/main/PublicRecords/LCPR-25-585_InventoryOfSurveillanceTech) |

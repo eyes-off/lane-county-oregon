@@ -4,7 +4,7 @@
 * 25-790
 
 ## Status
-* Open
+* Closed - No Documents
 
 ## Request 
 To the Public Records Manager,
