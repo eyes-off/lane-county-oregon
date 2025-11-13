@@ -4,7 +4,7 @@
 https://www.muckrock.com/foi/lane-county-205/inventory-of-surveillance-technologies-products-and-services-191536/
 
 ## Status
-* Open - Unpaid
+* Canceled
 
 ## Cost Estimate
 * $727.45
